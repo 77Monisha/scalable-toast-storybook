@@ -1,8 +1,96 @@
-# React + Vite
+# Scalable Toast Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A reusable and scalable **Toast Notification component** built with React and Storybook.
 
-Currently, two official plugins are available:
+The project focuses on creating a flexible UI component that can be easily integrated, configured, and reused across React applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+
+* Reusable Toast component
+* Multiple toast types
+* Configurable toast messages
+* Auto-dismiss support
+* React Hooks based implementation
+* Interactive component documentation with Storybook
+* Responsive UI
+* ESLint configured for code quality
+
+## 🛠️ Tech Stack
+
+* **React.js**
+* **JavaScript**
+* **Storybook**
+* **Vite**
+* **React Hooks**
+* **ESLint**
+
+## 📸 Preview
+
+Explore the interactive Storybook documentation:
+
+**[Live Storybook Demo](https://65fb...-co...)**
+
+The Storybook demonstrates the available toast variants and component behavior.
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/77Monisha/scalable-toast-storybook.git
+cd scalable-toast-storybook
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Start Storybook:
+
+```bash
+npm run storybook
+```
+
+The application will be available locally through the Vite development server, while Storybook provides an interactive environment for developing and testing the component.
+
+## 📁 Project Structure
+
+```text
+src/
+├── components/
+│   └── Toast/
+│       ├── Toast.jsx
+│       └── Toast.stories.jsx
+├── App.jsx
+└── main.jsx
+
+.storybook/
+```
+
+## 🎯 Purpose
+
+This project was built to explore **reusable component architecture**, **component-driven development**, and **Storybook-based UI documentation**.
+
+The goal is to create UI components that are easy to reuse, maintain, and extend across different applications.
+
+## 📌 Future Improvements
+
+* Toast queue management
+* Custom positioning
+* Improved animations
+* Accessibility enhancements
+* Additional configuration options
+
+## 👩‍💻 Author
+
+**Monisha Chaurasia**
+
+[GitHub](https://github.com/77Monisha) · [Portfolio](https://monisha-chaurasia-portfolio.vercel.app/)
