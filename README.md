@@ -28,7 +28,7 @@ The project focuses on creating a flexible UI component that can be easily integ
 
 Explore the interactive Storybook documentation:
 
-**[Live Storybook Demo](https://65fb...-co...)**
+**[Live Storybook Demo](https://65fbdadd0f64f38556d50506--cosmic-palmier-7904a4.netlify.app/?path=/story/toast--type&args=type:notification)**
 
 The Storybook demonstrates the available toast variants and component behavior.
 
